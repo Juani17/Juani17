@@ -12,4 +12,12 @@ Trabajo con APIs REST, persistencia con JPA/Hibernate y MySQL, y autenticación 
 - [Javachispas](https://github.com/Juani17/proyectFinal): frontend grupal con React y TypeScript para administración de empresas, sucursales y productos.
 - [Aplicación de tareas](https://github.com/Juani17/Progr3Frery): React, Zustand y JSON Server.
 
+## Proyectos colaborativos
+
+También participé en proyectos desarrollados en equipo y alojados en repositorios de otros integrantes:
+
+- [OSPUAYE — Frontend](https://github.com/Fbarraco1/Ospuaye-Front): frontend de la práctica profesionalizante OSPUAYE con React y TypeScript, integrado con el backend en Spring Boot.
+- [SprintProyect](https://github.com/Fbarraco1/SprintProyect): tablero de backlog y sprints desarrollado con React, TypeScript, Zustand y JSON Server.
+- [FrontECommerse](https://github.com/Fbarraco1/FrontECommerse): frontend académico de e-commerce con React, TypeScript y Tailwind CSS.
+
 Cada repositorio documenta su contexto, alcance y requisitos. Los ejercicios iniciales se conservan como parte de mi recorrido de formación.
